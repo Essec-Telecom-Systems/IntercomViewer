@@ -8,7 +8,7 @@ namespace IntercomViewer {
     public struct Intercom {
 
         public string? name { get; set; }
-        public string? incommingNumber { get; set; }
+        public string? incomingNumber { get; set; }
         public string? videoUrl { get; set; }
         public string? actionUrl { get; set; }
 
